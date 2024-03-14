@@ -1,4 +1,4 @@
-module proto-grpc-file
+module github.com/BLNeo/protobuf-grpc-file
 
 go 1.21.1
 
